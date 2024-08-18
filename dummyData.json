@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "company": "OYO",
+        "companyFullName": "OYO Private Limited",
+        "details": {
+          "Issue size": "₹3,600 - 3,700 Cr.",
+          "Price range": "₹100 - 200",
+          "Minimum amount": "₹50,000",
+          "Lot size": "150 shares/lots",
+          "Issue dates": "12 Dec - 15 Dec 22",
+          "Listed on": "15 Dec 22",
+          "Listed price": "₹150",
+          "Listing gains": "₹10(10.0%)"
+        },
+        "timeline": [
+          ["Bidding start", "12 Dec 2023", "complete"],
+          ["Bidding end", "15 Dec 2023", "complete"],
+          ["Allotment finalization", "18 Dec 2023", "complete"],
+          ["Refund initiation", "18 Dec 2023"],
+          ["Demat transfer", "18 Dec 2023"],
+          ["Listing date", "21 Dec 2023"]
+        ]
+    },
+    {
+      "id": 2,
+      "company": "Go Air",
+      "companyFullName": "Go Air Private Limited",
+      "details": {
+        "Issue size": "₹3,600 - 3,700 Cr.",
+        "Price range": "₹100 - 200",
+        "Minimum amount": "₹50,000",
+        "Lot size": "100 shares/lots",
+        "Issue dates": "12 Dec - 15 Dec 22",
+        "Listed on": "15 Dec 22",
+        "Listed price": "₹150",
+        "Listing gains": "₹10(10.0%)"
+      },
+      "timeline": [
+        ["Bidding start", "12 Dec 2023", "complete"],
+        ["Bidding end", "15 Dec 2023", "complete"],
+        ["Allotment finalization", "18 Dec 2023", "complete"],
+        ["Refund initiation", "18 Dec 2023"],
+        ["Demat transfer", "18 Dec 2023"],
+        ["Listing date", "21 Dec 2023"]
+      ]
+  },
+  {
+    "id": 3,
+    "company": "Bajaj Energy",
+    "companyFullName": "Bajaj Energy Private Limited",
+    "details": {
+      "Issue size": "₹3,600 - 3,700 Cr.",
+      "Price range": "₹100 - 200",
+      "Minimum amount": "₹50,000",
+      "Lot size": "100 shares/lots",
+      "Issue dates": "12 Dec - 15 Dec 22",
+      "Listed on": "15 Dec 22",
+      "Listed price": "₹150",
+      "Listing gains": "₹10(10.0%)"
+    },
+    "timeline": [
+      ["Bidding start", "12 Dec 2023", "complete"],
+      ["Bidding end", "15 Dec 2023", "complete"],
+      ["Allotment finalization", "18 Dec 2023", "complete"],
+      ["Refund initiation", "18 Dec 2023"],
+      ["Demat transfer", "18 Dec 2023"],
+      ["Listing date", "21 Dec 2023"]
+    ]
+  }
+]
